@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "title": "2BHK Flat in Andheri West",
+    "type": "Flat",
+    "saleMode": "Resale",
+    "usage": "Residential",
+    "price": 16500000,
+    "area": 950,
+    "city": "Mumbai",
+    "locality": "Andheri West",
+    "lat": 19.1295,
+    "lng": 72.8346,
+    "images": [
+          "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "description": "Well maintained 2BHK flat near metro station."
+  },
+  {
+    "id": 2,
+    "title": "Commercial Office Space – HSR Layout",
+    "type": "Office",
+    "saleMode": "Fresh",
+    "usage": "Commercial",
+    "price": 42000000,
+    "area": 2200,
+    "city": "Bangalore",
+    "locality": "HSR Layout",
+    "lat": 12.9121,
+    "lng": 77.6446,
+    "images": [
+        "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting.jpg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/260931/pexels-photo-260931.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "description": "Newly built commercial office space with parking."
+  },
+  {
+    "id": 3,
+    "title": "Open Land for Sale – Pune Ring Road",
+    "type": "Land",
+    "saleMode": "Fresh",
+    "usage": "Residential",
+    "price": 8000000,
+    "area": 5000,
+    "city": "Pune",
+    "locality": "Ring Road",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "images": [
+       "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/46160/field-clouds-sky-earth-46160.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "description": "Road-touch open land ideal for investment."
+  },
+  {
+    "id": 4,
+    "title": "Premium Villa – Jubilee Hills",
+    "type": "Villa",
+    "saleMode": "Resale",
+    "usage": "Residential",
+    "price": 145000000,
+    "area": 5200,
+    "city": "Hyderabad",
+    "locality": "Jubilee Hills",
+    "lat": 17.4318,
+    "lng": 78.4072,
+    "images": [
+        "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/7031408/pexels-photo-7031408.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/3935336/pexels-photo-3935336.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "description": "Luxury villa with garden, terrace and premium interiors."
+  },
+  {
+    "id": 5,
+    "title": "Retail Shop – Connaught Place",
+    "type": "Shop",
+    "saleMode": "Resale",
+    "usage": "Commercial",
+    "price": 98000000,
+    "area": 850,
+    "city": "Delhi",
+    "locality": "Connaught Place",
+    "lat": 28.6315,
+    "lng": 77.2167,
+    "images": [
+        "https://images.pexels.com/photos/264507/pexels-photo-264507.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/1838640/pexels-photo-1838640.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "description": "High-footfall retail shop in prime market location."
+  },
+  {
+    "id": 6,
+    "title": "Warehouse – Bhiwandi Logistics Hub",
+    "type": "Warehouse",
+    "saleMode": "Fresh",
+    "usage": "Commercial",
+    "price": 75000000,
+    "area": 12000,
+    "city": "Mumbai",
+    "locality": "Bhiwandi",
+    "lat": 19.2813,
+    "lng": 73.0483,
+  "images": [
+  "https://images.pexels.com/photos/4483610/pexels-photo-4483610.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/6169668/pexels-photo-6169668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/1267338/pexels-photo-1267338.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/3735218/pexels-photo-3735218.jpeg?auto=compress&cs=tinysrgb&w=1200"
+],
+    "description": "New warehouse with loading bays and wide approach road."
+  },
+  {
+    "id": 7,
+    "title": "Residential Plot – Whitefield",
+    "type": "Plot",
+    "saleMode": "Fresh",
+    "usage": "Residential",
+    "price": 12000000,
+    "area": 2400,
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "lat": 12.9698,
+    "lng": 77.7499,
+    "images": [
+       "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/46160/field-clouds-sky-earth-46160.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "description": "Corner plot in gated layout with clear titles."
+  },
+  {
+    "id": 8,
+    "title": "Office Space – Gachibowli Financial District",
+    "type": "Office",
+    "saleMode": "Resale",
+    "usage": "Commercial",
+    "price": 61000000,
+    "area": 3100,
+    "city": "Hyderabad",
+    "locality": "Gachibowli",
+    "lat": 17.4401,
+    "lng": 78.3489,
+      "images": [
+        "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting.jpg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "https://images.pexels.com/photos/260931/pexels-photo-260931.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "description": "Ready-to-move office space near metro and ORR."
+  }
+]
